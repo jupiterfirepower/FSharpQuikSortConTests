@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "QuikSortConTest", "QuikSortConTest\QuikSortConTest.fsproj", "{DD5A31D1-F35A-4C80-B755-16499432D990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5A31D1-F35A-4C80-B755-16499432D990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5A31D1-F35A-4C80-B755-16499432D990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5A31D1-F35A-4C80-B755-16499432D990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5A31D1-F35A-4C80-B755-16499432D990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C8464AA-F968-42D9-908E-8887882525AC}
+	EndGlobalSection
+EndGlobal
